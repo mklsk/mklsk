@@ -1,7 +1,7 @@
 ### Hello 👋
 
 - 🐶 Co-Founder & CTO of Fluffy - fair pet insurance startup
-- 💰Passionate about all things fintech
-- ⚙️ Building in JS + TS, React Native and Node
+- 💰Passionate about all things fintech/insurtech
+- ⚙️ Building with LLMS, and Node.js
 - 📫 Contact me: https://www.linkedin.com/in/german-mikulski/
 
